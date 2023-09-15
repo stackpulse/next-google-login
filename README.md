@@ -11,8 +11,20 @@
 
 npm install @stack-pulse/next-google-login
 
+yarn add @stack-pulse/next-google-login
+
 ```
 
+##  Installation Issue
+
+```
+If you face
+npm ERR! ERESOLVE unable to resolve dependency tree then use this command.
+
+
+npm install @stack-pulse/next-google-login --legacy-peer-deps
+
+```
 
 
 ##  How to use
