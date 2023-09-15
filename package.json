@@ -1,6 +1,6 @@
 {
-  "name": "@stack-pulse/react-google-login",
-  "version": "1.0.0",
+  "name": "@stack-pulse/next-google-login",
+  "version": "1.0.3",
   "description": "A Google Login Component for Reactjs And Nextjs",
   "main": "dist/google-login.js",
   "scripts": {
@@ -32,12 +32,13 @@
     "react-component",
     "google-login",
     "google-oAuth2",
-    "google-oAuth"
+    "google-oAuth",
+    "next-gogole-login",
+    "react-google-login",
+    "google-login",
+    "signin-with-google"
   ],
-  "author": {
-    "name": "Ahmed Ali",
-    "email": "stackpulsebusiness@gmail.com"
-  },
+  "author": "Ahmed Ali <stackpulsebusiness@gmail.com>",
   "contributors": [
     "Ahmed Ali <crayongamer0@gmail.com>"
   ],
